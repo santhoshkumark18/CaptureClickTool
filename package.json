@@ -1,0 +1,12 @@
+{
+    "name": "click-capture-tool-frontend",
+    "version": "0.1.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "puppeteer": "^23.5.3"
+    }
+}
